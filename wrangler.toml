@@ -1,0 +1,7 @@
+name = "cpa-site"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cpa-knowledge-db"
+database_id = "your-database-id-here"
